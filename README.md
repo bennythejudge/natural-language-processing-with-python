@@ -2,7 +2,7 @@
   
 # Natural Language Text Processing with Python, by Jonathan Mugan
   
-[![Natural Language Text Processing with Python, by Jonathan Mugan](http://akamaicovers.oreilly.com/images/9781491976470/cat.gif)](https://www.safaribooksonline.com/library/view/title/9781491976487//)
+[![Natural Language Text Processing with Python, by Jonathan Mugan](http://akamaicovers.oreilly.com/images/9781491976470/cat.gif)](https://www.safaribooksonline.com/library/view/title/9781491976487//) [![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/natural-language-processing-with-python.svg)](https://www.guardrails.io)
   
 The following applies to example files from material published by O’Reilly Media, Inc. Content from other publishers may include different rules of usage. Please refer to any additional usage rights explained in the actual example files or refer to the publisher’s website.
   
